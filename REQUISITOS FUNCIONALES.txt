@@ -1,0 +1,190 @@
+1. MENÚ REGISTRO
+
+	-El usuario podrá ingresar su nombre de usuario en un cuadro de texto.
+
+	-El usuario podrá ingresar su contraseña en un cuadro de texto.
+
+	-El usuario podrá ingresar su correo electrónico en un cuadro de texto.
+
+	-El usuario podrá completar el registro pulsando sobre un botón.
+
+	-Las credenciales deben ser insertadas en la base de datos del proyecto.
+
+	-El usuario podrá minimizar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá cerrar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá mover la ventana de la aplicación pulsando
+	sobre la parte superior de esta.
+
+
+2. MENÚ IDENTIFICACIÓN
+
+	-El usuario podrá ingresar su nombre de usuario en un cuadro de texto.
+
+	-El usuario podrá ingresar su contraseña en un cuadro de texto.
+
+	-El usuario podrá identificarse pulsando sobre un botón.
+
+	-El usuario podrá intentar recuperar sus datos olvidados pulsando sobre un botón.
+
+	-Las credenciales válidas deben estar almacenadas en la base de datos del proyecto.
+
+	-El usuario podrá minimizar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá cerrar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá mover la ventana de la aplicación pulsando
+	sobre la parte superior de esta.
+
+
+3. MENÚ HAS OLVIDADO TU CONTRASEÑA
+
+	-El usuario podrá ingresar su correo electrónico en un cuadro de texto.
+
+	-El usuario podrá  solicitar un mensaje de correo electrónico para cambiar
+	 su contraseña pulsando sobre un botón.
+
+	-El usuario podrá volver atrás si no desea seguir el procedimiento
+	pulsando sobre un botón.
+
+	-El usuario podrá mover la ventana de la aplicación pulsando
+	sobre la parte superior de esta.
+
+
+4. MENÚ INICIO
+
+	-El usuario podrá echar un vistazo a su perfil pulsando sobre un botón.
+
+	-El usuario podrá pulsar sobre un menú para filtrar entre todas los
+	vídeos por su categoría.
+
+	-El usuario podrá buscar un vídeo específico por su nombre
+	escribiéndolo en un cuadro de texto y pulsando sobre un botón.
+
+	-El usuario podrá pulsar sobre un botón para ver su lista de favoritos.
+
+	-El usuario podrá pulsar sobre un botón para cambiar los ajustes de la aplicación.
+
+	-Los vídeos se mostrarán de manera dinámica según los datos recogidos en la base
+	de datos, sin necesidad de hacerlo manualmente en SceneBuilder.
+
+	-El usuario podrá hacer clic sobre los diferentes vídeos que 
+	se mostrarán por la pantalla para ser redirigido a su información.
+
+	-El usuario podrá minimizar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá cerrar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá volver atrás al menú de identificación pulsando sobre un botón.
+
+	-El usuario podrá mover la ventana de la aplicación pulsando
+	sobre la parte superior de esta.
+
+
+5. MENÚ CATEGORÍAS
+
+	-El usuario podrá ver todos los nombres e imágenes de los 
+	vídeos publicados en el servidor desde este menú.
+
+	-El usuario podrá buscar un vídeo específico por su nombre
+	escribiéndolo en un cuadro de texto y pulsando sobre un botón.
+
+	-El usuario podrá volver atrás al menú Inicio pulsando sobre un botón.
+
+	-El usuario podrá hacer clic sobre los diferentes vídeos que 
+	se mostrarán por pantalla para ser redirigido a su información.
+
+	-El usuario podrá minimizar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá cerrar la pestaña pulsando sobre un botón.
+
+	--El usuario podrá mover la ventana de la aplicación pulsando
+	sobre la parte superior de esta.
+
+
+6. MENÚ MI PERFIL
+
+	-El usuario podrá ver todos sus datos de importancia. Esto incluye su usuario,
+	correo electrónico, su contraseña(cifrada) y su foto de perfil.
+
+	-El usuario podrá cambiar su foto de perfil.
+
+	-El usuario podrá cambiar su nombre de usuario.
+
+	-El usuario podrá cambiar su contraseña.
+
+	-El usuario podrá minimizar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá cerrar la pestaña pulsando sobre un botón.
+
+	--El usuario podrá mover la ventana de la aplicación pulsando
+	sobre la parte superior de esta.
+
+
+7. MENÚ MI LISTA
+
+	-El usuario podrá ver todos los nombres y fotos de los vídeos
+	de su lista ordenados alfabéticamente.
+
+	-El usuario podrá buscar un vídeo específico por su nombre
+	escribiéndolo en un cuadro de texto y pulsando sobre un botón.
+
+	-El usuario podrá minimizar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá cerrar la pestaña pulsando sobre un botón.
+
+	--El usuario podrá mover la ventana de la aplicación pulsando
+	sobre la parte superior de esta.
+
+	-El usuario podrá hacer clic sobre los diferentes vídeos que 
+	se mostrarán por pantalla para ser redirigido a su información.
+
+
+8. MENÚ AJUSTES
+
+	(NO TENGO NI IDEA DE LAS OPCIONES QUE HABRÁ EN AJUSTES, OS LO DEJO A VOSOTROS)
+
+
+
+
+
+
+
+
+
+9. MENÚ INFORMACIÓN VIDEOS
+
+	-El usuario podrá ver los datos del vídeo.
+	Entre los datos figuran: nombre, descripción, PEGI, duración, (insertar todos los datos que queréis que se muestren).
+
+	-El usuario podrá reproducir el vídeo pulsando sobre un botón (El cuál abrirá un reproductor).
+
+	-El usuario podrá volver al menú anterior.
+
+	-El usuario podrá minimizar la pestaña pulsando sobre un botón.
+	
+	-El usuario podrá cerrar la pestaña pulsando sobre un botón.
+
+	--El usuario podrá mover la ventana de la aplicación pulsando
+	sobre la parte superior de esta.
+
+
+10. REPRODUCTOR
+
+	-El usuario podrá reproducir y pausar el vídeo pulsando sobre un botón único.
+
+	-El usuario podrá activar o desactivar el modo pantalla completa pulsando sobre un botón único.
+
+	-El usuario podrá regular el volumen deslizando un slider.
+
+	-El usuario podrá desplazarse en la duración del vídeo deslizando un slider.
+
+	-El usuario podrá volver a la información de la película pulsando sobre un botón.
+
+	-El usuario podrá minimizar la pestaña pulsando sobre un botón.
+
+	-El usuario podrá cerrar la pestaña pulsando sobre un botón.
+
+	--El usuario podrá mover la ventana de la aplicación pulsando
+	sobre la parte superior de esta.
